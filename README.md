@@ -7,6 +7,8 @@ Awesome list of repositories for Yatline add-ons.
 
 ## Add-ons
 
+- [yatline-githead](https://github.com/imsi32/yatline-githead.yazi)
+
 ## Contributing
 You can create either pull request or issue to add your add-on.  
 To create your own add-on see [Add-ons](https://github.com/imsi32/yatline.yazi/wiki/Add-ons).
